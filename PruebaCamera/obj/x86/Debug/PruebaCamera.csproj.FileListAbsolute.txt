@@ -1,0 +1,16 @@
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.csprojResolveAssemblyReference.cache
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.Form1.resources
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.Properties.Resources.resources
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.csproj.GenerateResource.Cache
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\bin\Debug\PruebaCamera.exe
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\bin\Debug\PruebaCamera.pdb
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.exe
+C:\Users\Yo\Documents\PracticasClassTopicos\PruebaCamera\obj\x86\Debug\PruebaCamera.pdb
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.exe
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.pdb
+F:\Nueva carpeta\PruebaCamera\bin\Debug\PruebaCamera.exe
+F:\Nueva carpeta\PruebaCamera\bin\Debug\PruebaCamera.pdb
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.Form1.resources
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.Properties.Resources.resources
+F:\Nueva carpeta\PruebaCamera\obj\x86\Debug\PruebaCamera.csproj.GenerateResource.Cache
